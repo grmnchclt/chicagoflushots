@@ -1,6 +1,6 @@
 // Sample Config
 var config = {
-    "api_key": "MFF6YvY16qQzmgP8gkW12PvGA4ONL4T4Oc", 
+    "api_key": "AIzaSyCgLuPh5k9eKka2uHJXxov4OCCRaMTQUa8", 
     "table_id": "5313521",
     "default_lat": "41.85",
     "default_lng": "-87.675",
